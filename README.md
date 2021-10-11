@@ -1,6 +1,6 @@
 Dmitry Troshin Meredith Corporation Assessment
 
-Video Selector Application
+Video Selector Application - Created use npx Create-React-App
 
 Frontend Developer Coding Exercise 
 Selector Challenge 
